@@ -2,7 +2,7 @@ things need to be changed and added:-
 
 
 
-please add the directory of the .db file in tables to the subforms
+please add the directory of the .db file in tables folder to the subforms
 
 the directory needs to be changed in the save method in each:-
 
